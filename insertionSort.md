@@ -15,3 +15,5 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 <br/> <br/>
 Time Complexity Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olmasıdır.
 Bu durumda 18'i ele alırsak bir Average Case'dir.
+<br/> <br/>
+www.patika.dev
